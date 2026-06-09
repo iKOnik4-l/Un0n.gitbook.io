@@ -40,5 +40,7 @@
       * [Interfaces](security/offensive-security/wireless/interfaces.md)
       * [Hidden SSIDs](security/offensive-security/wireless/hidden-ssids.md)
       * [MAC Filtering (Can't Connect)](security/offensive-security/wireless/mac-filtering-cant-connect.md)
+    * [AI/ML](security/offensive-security/ai-ml.md)
 * [Writeups](writeups.md)
 * [Linux](linux.md)
+* [Collections](collections.md)
