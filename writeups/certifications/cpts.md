@@ -1,32 +1,18 @@
+---
+description: >-
+  Certified Penetration Testing Specialist (CPTS) Review 2025 | by P4nzer262
+  (Jun 13, 2025)
+---
+
 # CPTS
 
-## Certified Penetration Testing Specialist (CPTS) Review 2025 | by P4nzer262
+**Medium Profile** ---> [P4nzer262](https://medium.com/@Panzer262?source=post_page---byline--3be7eebc28cf---------------------------------------)
 
-[![P4nzer262](https://miro.medium.com/v2/resize:fill:64:64/1*KaQcCj745OnUCMb3oNXjOg.jpeg)](https://medium.com/@Panzer262?source=post_page---byline--3be7eebc28cf---------------------------------------)
 
-[P4nzer262](https://medium.com/@Panzer262?source=post_page---byline--3be7eebc28cf---------------------------------------)
-
-7 min read
-
-·
-
-Jun 13, 2025
-
-[nameless link](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fp%2F3be7eebc28cf\&operation=register\&redirect=https%3A%2F%2Fmedium.com%2F%40Panzer262%2Fmy-journey-to-earning-the-htb-certified-penetration-testing-specialist-cpts-certification-3be7eebc28cf\&user=P4nzer262\&userId=8d196aa32eb4\&source=---header_actions--3be7eebc28cf---------------------clap_footer------------------)
-
-\--
-
-[nameless link](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Frepost%2Fp%2F3be7eebc28cf\&operation=register\&redirect=https%3A%2F%2Fmedium.com%2F%40Panzer262%2Fmy-journey-to-earning-the-htb-certified-penetration-testing-specialist-cpts-certification-3be7eebc28cf\&user=P4nzer262\&userId=8d196aa32eb4\&source=---header_actions--3be7eebc28cf---------------------repost_header------------------)
-
-[nameless link](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F3be7eebc28cf\&operation=register\&redirect=https%3A%2F%2Fmedium.com%2F%40Panzer262%2Fmy-journey-to-earning-the-htb-certified-penetration-testing-specialist-cpts-certification-3be7eebc28cf\&source=---header_actions--3be7eebc28cf---------------------bookmark_footer------------------)
-
-[Listen](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2Fplans%3Fdimension%3Dpost_audio_button%26postId%3D3be7eebc28cf\&operation=register\&redirect=https%3A%2F%2Fmedium.com%2F%40Panzer262%2Fmy-journey-to-earning-the-htb-certified-penetration-testing-specialist-cpts-certification-3be7eebc28cf\&source=---header_actions--3be7eebc28cf---------------------post_audio_button------------------)
-
-Share
 
 Hey guys! I’m pumped to join the club with my [HTB Certified Penetration Testing Specialist (CPTS)](https://academy.hackthebox.com/exams/3/) cert, and I wanted to jot down my story, while keeping it short. I’ll toss in some prep tips and the extra stuff that got me over the line!
 
-![captionless image](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*hrOgPGXhCEhXll9umD1KYA@2x.jpeg)
+![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*hrOgPGXhCEhXll9umD1KYA@2x.jpeg)
 
 ### Why I Chased CPTS
 
@@ -34,13 +20,13 @@ I was just starting out, and heard about the Certified Ethical Hacker (CEH). Sou
 
 Scrolling through all the reviews I had seen on YouTube, Reddit and so on, I was convinced that CPTS was the right way to go. The course takes about 41 days if you’re going full-time (according to HackTheBox), but I’ve seen some people complete it faster, while others might take a few months. Check out [this](https://www.brunorochamoura.com/posts/road-to-cpts/) highly accurate CPTS study time post. I knew the path would demand serious time and effort — those modules are packed with tons of reading. But the idea of diving into real-world simulated environments? That’s what pulled me in. Some of the reviews (summary below each) that got me hyped before jumping into the CPTS path were…
 
-\[other]OSCP vs CPTS\[/other]
+#### OSCP vs CPTS
 
 In short, I was amazed at how CPTS stood out with a more structured, comprehensive course, and challenging labs, though it lacks videos. OSCP includes videos but Robbe found them robotic and slow. For jobs, OSCP is the better step due to recognition. I would also recommend doing the CPTS course first to become a strong hacker, then taking OSCP to break into the industry, noting CPTS covers most OSCP content.
 
 OSCP’s Active Directory and privilege escalation modules are basic (e.g., Kerberos, Kerberoasting, ASREPRoast), while CPTS dives alot deeper, equipping users for real AD pentests. The OSCP exam is 24 hours, while CPTS is non-proctored and you get 10 days to complete the exam plus report. Lastly, The CPTS exam voucher is much cheaper than the OSCP. More on this later…
 
-\[other]CPTS Guide\[/other]
+#### CPTS Guide
 
 This guy was the first person to pass CPTS. **WILD!**
 
@@ -52,7 +38,7 @@ This guy was the first person to pass CPTS. **WILD!**
 * Store all credentials in one spot to avoid mess.
 * Attempt the “Attacking Enterprise Networks” module blind first.
 
-\[other]How to pass CPTS\[/other]
+#### How to pass CPTS
 
 I watched InfoSec Pat’s videos before the course, and he recently came out with his own experience with tips and tricks. I believe CPTS will become the modern penetration testing standard in the years to come, which is one of the main reasons I went with it. Its **in-depth course** and **real world exam** are unmatched.
 
@@ -80,17 +66,17 @@ I stumbled across [SysReptor](https://github.com/Syslifters/HackTheBox-Reporting
 
 ### Tools and Resources That Made the Difference
 
-![Organised Directory](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*63HbHTjwDfKZ07qVFqQb1A.png)\`\`\` mkdir -p ACME IPT/{Admin,Deliverables,Evidence/{Findings,Scans/{Vuln,Service,Web,'AD Enumeration'},Notes,OSINT,Wireless,'Logging output','Misc Files'},Retest}
+![Organised Directory](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*63HbHTjwDfKZ07qVFqQb1A.png)
 
+```bash
+mkdir -p ACME IPT/{Admin,Deliverables,Evidence/{Findings,Scans/{Vuln,Service,Web,'AD Enumeration'},Notes,OSINT,Wireless,'Logging output','Misc Files'},Retest}
 ```
 
 **Add to host file**
 
-```
-
+```bash
 echo "127.0.0.1 example.com" | sudo tee -a /etc/hosts > /dev/null sudo sed -i '/10.129.234.214/ s/$/ subdomain.example.com/' /etc/hosts || echo "10.129.234.214 status.inlanefreight.local subdomain.example.com" | sudo tee -a /etc/hosts > /dev/null
-
-```![windows
+```
 
 **Tmux**
 
@@ -100,28 +86,21 @@ Tmux was a lifesaver for documenting every step. It saved hours of command outpu
 
 Detailed, navigable notes are key. I recommend making your own while studying CPTS material. Create a separate command cheatsheet for copy-paste commands with placeholders.
 
-**For example:** _msfvenom -p windows/x64/meterpreter/reverse_tcp LHOST=<IP> LPORT=<PORT> -f exe > reverse_shell.exe_
+**For example:** _msfvenom -p windows/x64/meterpreter/reverse\_tcp LHOST= LPORT= -f exe > reverse\_shell.exe_
 
 For note-taking, I started with [Notion](https://www.notion.com/), loved its flexibility to organize my pages. After completing the path, I switched to [Obsidian](https://obsidian.md/https://obsidian.md/) and imported my notes from Notion. Obsidian’s graph view and markdown links let me connect vulnerabilities and exploits into a knowledge base. It’s hevily customizable too!
 
 **Youtube**
 
-If you are just starting out and looking to improve your Penetration Testing skills, I would recommend watching this video by John Hammond.
-
-<b>[other]Become a Certified Penetration Tester with HackTheBox CPTS![/other]</b>
-
-IppSec’s Unofficial CPTS Playlist is also a must watch.
-
-<b>[other]IppSec’s Unofficial CPTS Playlist[/other]</b>
+If you are just starting out and looking to improve your Penetration Testing skills, I would recommend watching this video by John Hammond. IppSec’s Unofficial CPTS Playlist is also a must watch.
 
 **Additional HackTheBox Content**
 
 The path has everything you need, but Hack The Box Machines are great for applying module skills. Check [this](https://academy.hackthebox.com/academy-relations) link to match machines to modules. The “Attacking Enterprise Networks” module in my opinion is a smaller version of the exam network, so repeat it to get comfy. Pro labs are long and lack writeups, so I’d stick with AEN. CrackMapExec is a must-have tool for your arsenal. I heard some people recommend doing the “Using CrackMapExec” module to prepare for the exam too.
 
-CPTS vs. OSCP and Others: Why It Stands Out
--------------------------------------------
+### CPTS vs. OSCP and Others: Why It Stands Out
 
-After eJPT, I considered PNPT (TCM Security) and eCPPT (INE). Both are practical and respected, but CPTS’s depth blew them away. It’s a goldmine for real-world skills, and completing it covers ~60% of the CBBH path, which has its own great material. Here’s a comparison chart (my own) for intermediate pentesting certs:
+After eJPT, I considered PNPT (TCM Security) and eCPPT (INE). Both are practical and respected, but CPTS’s depth blew them away. It’s a goldmine for real-world skills, and completing it covers \~60% of the CBBH path, which has its own great material. Here’s a comparison chart (my own) for intermediate pentesting certs:
 
 ![CPTS vs PNPT vs OSCP vs eCPPT](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*IQHZlyUCr_Lgd3sWwnetUQ.png)
 
@@ -130,4 +109,3 @@ Comparing CPTS to certifications like OSCP, I find CPTS shines for its depth and
 **Reflections and Advice**
 
 This cert, powered by Hack The Box’s awesome platform, totally changed my view of ethical hacking. It was tough, but the skills in enumeration, exploitation, pivoting, and reporting are now locked in my toolkit. For anyone starting out, I’d recommend a pentesting-friendly distro like ParrotOS, solid note-taking with Obsidian, and diving into HTB’s ecosystem. Big thanks to Hack The Box for this opportunity — I’m stoked to be part of the CPTS community and can’t wait to put these skills to work in the field!
-```
