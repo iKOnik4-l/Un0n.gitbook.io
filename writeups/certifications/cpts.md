@@ -6,7 +6,7 @@ description: >-
 
 # CPTS
 
-**Medium Profile** ---> [P4nzer262](https://medium.com/@Panzer262?source=post_page---byline--3be7eebc28cf---------------------------------------)
+[View on Medium](https://medium.com/@Panzer262?source=post_page---byline--3be7eebc28cf---------------------------------------)
 
 
 
