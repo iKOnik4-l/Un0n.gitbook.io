@@ -44,5 +44,6 @@
 * [Writeups](writeups/README.md)
   * [Certifications](writeups/certifications/README.md)
     * [CPTS](writeups/certifications/cpts.md)
+  * [HTB Machines](writeups/htb-machines.md)
 * [Linux](linux.md)
 * [Collections](collections.md)
