@@ -47,3 +47,4 @@
   * [HTB Machines](writeups/htb-machines.md)
 * [Linux](linux.md)
 * [Collections](collections.md)
+* [AGI](agi.md)
