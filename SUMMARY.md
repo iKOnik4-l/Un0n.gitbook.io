@@ -54,6 +54,7 @@
     * [Sea](writeups/htb-machines/sea.md)
     * [Usage](writeups/htb-machines/usage.md)
 * [Linux](linux/README.md)
+  * [What I Use](linux/what-i-use.md)
   * [Notes](linux/notes/README.md)
     * [Foundations](linux/notes/foundations/README.md)
       * [Linux Distributions](linux/notes/foundations/linux-distributions.md)
