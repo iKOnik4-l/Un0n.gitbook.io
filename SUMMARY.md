@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Security](README.md)
+* [About Me](README.md)
+* [Security](<README (1).md>)
   * [Defensive Security](security/defensive-security.md)
   * [Offensive Security](security/offensive-security/README.md)
     * [Active Directory](security/offensive-security/active-directory.md)
@@ -41,7 +42,6 @@
       * [Hidden SSIDs](security/offensive-security/wireless/hidden-ssids.md)
       * [MAC Filtering (Can't Connect)](security/offensive-security/wireless/mac-filtering-cant-connect.md)
     * [AI/ML](security/offensive-security/ai-ml.md)
-  * [About Me](security/about-me.md)
 * [AGI](agi/README.md)
   * [Research](agi/research.md)
 * [Writeups](writeups/README.md)
