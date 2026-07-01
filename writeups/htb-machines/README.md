@@ -1,9 +1,16 @@
 ---
+description: A collection of writeups from Hack The Box's machines inventory.
 icon: cube
 ---
 
 # HTB Machines
 
-HTB machine writeups live here.
+**PS:** These writeups were imported from my Notion workspace.
 
-###
+### Index
+
+* [BoardLight](boardlight.md)
+* [Editorial](editorial.md)
+* [PermX](permx.md)
+* [Sea](sea.md)
+* [Usage](usage.md)
