@@ -1,6 +1,6 @@
-# Introduction to Shell 6d4c44b38cc34e878a5783e4e868947b
+# Introduction to Shell
 
-It is crucial to learn how to use the Linux shell, as there are many servers based on Linux. These are often used because Linux is less error-prone as opposed to Windows servers. For example, web servers are often based on Linux. Knowing how to use the operating system to control it effectively requires understanding and mastering Linux’s essential part, the `Shell`. When we first switched from Windows to Linux, does it look something like this:
+It is crucial to learn how to use the Linux shell, as many servers run Linux. These are often used because Linux is less error-prone than Windows servers. For example, web servers are often based on Linux. Knowing how to use the operating system effectively requires understanding and mastering an essential part of Linux: the `Shell`. When we first switch from Windows to Linux, it often looks like this:
 
 ## Terminal Emulators (Tmux)
 

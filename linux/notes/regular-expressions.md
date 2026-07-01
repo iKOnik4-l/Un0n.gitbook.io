@@ -1,10 +1,10 @@
-# RegEx 162d92c2091f48658b418db6b30a7fee
+# Regular Expressions
 
 [https://www.howtogeek.com/661101/how-to-use-regular-expressions-regexes-on-linux/](https://www.howtogeek.com/661101/how-to-use-regular-expressions-regexes-on-linux/)
 
-Regular Expression is a filter criterion that can be used to analyze and manipulate strings. They use letters and symbols to define a pattern that's searched for in a file or stream.
+A regular expression is a filter criterion that can be used to analyze and manipulate strings. It uses letters and symbols to define a pattern that's searched for in a file or stream.
 
-There are several different flavors off regex. We're going to look at the version used in common Linux utilities and commands, like `grep`, the command that [prints lines that match a search pattern](http://man7.org/linux/man-pages/man1/grep.1.html). This is a little different than [using standard regex](https://www.howtogeek.com/devops/how-do-you-actually-use-regex/) in the programming context.
+There are several different flavors of regex. We're going to look at the version used in common Linux utilities and commands, like `grep`, the command that [prints lines that match a search pattern](http://man7.org/linux/man-pages/man1/grep.1.html). This is a little different from [using standard regex](https://www.howtogeek.com/devops/how-do-you-actually-use-regex/) in the programming context.
 
 ## Grouping Operators
 

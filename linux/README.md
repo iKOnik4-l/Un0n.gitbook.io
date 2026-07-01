@@ -1,7 +1,8 @@
 ---
-description: Linax
+description: Linux notes
 icon: linux
 ---
 
 # Linux
 
+***

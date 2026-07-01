@@ -1,4 +1,4 @@
-# Backup and Restore 3b19cb9192c44f32aa012584bfee7aeb
+# Backup and Restore
 
 When backing up data on an Ubuntu system, we can utilize tools such as:
 
@@ -18,7 +18,7 @@ Duplicity is another graphical backup tool for Ubuntu that provides users with c
 
 Deja Dup is a graphical backup tool for Ubuntu that simplifies the backup process, allowing us to quickly and easily back up our data. It provides a user-friendly interface to create backup copies of data on local or remote storage media. It uses Rsync as a backend and also supports data encryption.
 
-In order to ensure the security and integrity of backups, we should take steps to encrypt their backups. Encrypting backups ensures that sensitive data is protected from unauthorized access. Alternatively, we can encrypt backups on Ubuntu systems by utilizing tools such as GnuPG, eCryptfs, and LUKS.
+In order to ensure the security and integrity of backups, we should encrypt them. Encrypting backups ensures that sensitive data is protected from unauthorized access. On Ubuntu systems, we can use tools such as GnuPG, eCryptfs, and LUKS.
 
 ## Rsync
 

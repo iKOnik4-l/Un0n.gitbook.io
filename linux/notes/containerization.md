@@ -1,4 +1,4 @@
-# Containerization e66e32d846a24a7c8f2139b96d1354dd
+# Containerization
 
 ## What is Containerization?
 
@@ -6,9 +6,9 @@ Containerization is a process of packaging and running applications in isolated 
 
 Container security is an important aspect of containerization. They provide users a secure environment for running their applications since they are isolated from the host system and other containers. This isolation helps protect the host system from any malicious activities in the container while providing an additional layer of security for the applications running on the containers. Additionally, containers have the advantage of being lightweight, which makes them more difficult to compromise than traditional virtual machines. Furthermore, containers are easy to configure, making them ideal for running applications securely.
 
-In addition to providing a secure environment, containers provide users with many other advantages because they make applications easier to deploy and manage and more efficient for running multiple applications simultaneously. However, methods still exist to escalate our privileges on containers and escape those.
+In addition to providing a secure environment, containers provide users with many other advantages because they make applications easier to deploy and manage and more efficient for running multiple applications simultaneously. However, privilege escalation and container escape paths still exist.
 
-## Dockers
+## Docker
 
 Docker is an open-source platform for automating the deployment of applications as self-contained units called containers. It uses a layered filesystem and resource isolation features to provide flexibility and portability. Additionally, it provides a robust set of tools for creating, deploying, and managing applications, which helps streamline the containerization process.
 
@@ -129,7 +129,7 @@ Both LXC and Docker are containerization technologies that allow for application
 * Approach
 * Image building
 * Portability
-* Easy of use
+* Ease of use
 * Security
 
 LXC is a lightweight virtualization technology that uses resource isolation features of the Linux kernel to provide an isolated environment for applications. In LXC, images are manually built by creating a root filesystem and installing the necessary packages and configurations. Those containers are tied to the host system, may not be easily portable, and may require more technical expertise to configure and manage. LXC also provides some security features but may not be as robust as Docker.
@@ -213,7 +213,7 @@ To apply these changes, we must restart the LXC service.
 sudo systemctl restart lxc.service
 ```
 
-LXC use `namespaces` to provide an isolated environment for processes, networks, and file systems from the host system. Namespaces are a feature of the Linux kernel that allows for creating isolated environments by providing an abstraction of system resources.
+LXC uses `namespaces` to provide an isolated environment for processes, networks, and file systems from the host system. Namespaces are a feature of the Linux kernel that allows for creating isolated environments by providing an abstraction of system resources.
 
 Namespaces are a crucial aspect of containerization as they provide a high degree of isolation for the container's processes, network interfaces, routing tables, and firewall rules. Each container is allocated a unique process ID (`pid`) number space, isolated from the host system's process IDs. This ensures that the container's processes cannot interfere with the host system's processes, enhancing system stability and reliability. Additionally, each container has its own network interfaces (`net`), routing tables, and firewall rules, which are completely separate from the host system's network interfaces. Any network-related activity within the container is cordoned off from the host system's network, providing an extra layer of network security.
 
