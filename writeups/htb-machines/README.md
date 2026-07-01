@@ -5,7 +5,7 @@ icon: cube
 
 # HTB Machines
 
-**PS:** These writeups were imported from my Notion workspace.
+**PS:** These writeups were imported from my old Notion workspace.
 
 ### Index
 
